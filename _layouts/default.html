@@ -1,16 +1,29 @@
 s<!DOCTYPE html>
 <html>
 <head>
-  <title>{{ McCarthy's Pub }}</title>
+  <title> McCarthy's Pub </title>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <link rel="stylesheet" href="assets/css/bootstrap.min.css">
   <link rel="stylesheet" href="assets/css/style.css">
 </head>
 <body>
-<div class="container">
-  <h1>{{ page.title }}</h1>
+<div class="container-fluid">
+  <h1> McCarthy's pub</h1>
   {{ content }}
 </div>
+<nav class="navbar navbar-inverse">
+  <div class="container-fluid">
+    <div>
+      <ul class="nav navbar-nav">
+        <li><a href="home.html">Home</a></li>
+        <li><a href="history.html">History</a></li>
+        <li><a href="menu.html">Menu</a></li>
+        <li><a href="upcomingevents.html">Upcoming Events</a></li>
+        <li><a href="specials.html">Specials</a></li>
+      </ul>
+    </div>
+  </div>
+</nav>
 </body>
 </html>
