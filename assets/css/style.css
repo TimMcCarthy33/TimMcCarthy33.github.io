@@ -1,6 +1,6 @@
 @import url(https://fonts.googleapis.com/css?family=Bree+Serif);
 @import url(https://fonts.googleapis.com/css?family=Armata);
-
+@import url(https://fonts.googleapis.com/css?family=Lora);
 
 h1{
   color: green;
@@ -13,8 +13,12 @@ h2{
   font-family: 'Armata', sans-serif;
 }
 
+p{
+  font-family: 'Lora', serif;
+}
+
 #McsPub{
-  margin-left: 100px;
+  margin-left: 150px;
 
 }
 
