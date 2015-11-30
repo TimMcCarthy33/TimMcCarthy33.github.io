@@ -22,6 +22,26 @@ p{
 
 }
 
+#homelink{
+  color: #FF8C00;
+}
+
+#historylink{
+  color:#FF8C00;
+}
+
+#menulink{
+  color:#FF8C00;
+}
+
+#upcomingeventslink{
+  color:#FF8C00;
+}
+
+#specialslink{
+  color:#FF8C00;
+}
+
 
 .navbar-inverse{
   background-color:green;
