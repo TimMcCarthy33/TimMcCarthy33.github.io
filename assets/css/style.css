@@ -1,10 +1,16 @@
 @import url(https://fonts.googleapis.com/css?family=Bree+Serif);
+@import url(https://fonts.googleapis.com/css?family=Armata);
 
 
 h1{
   color: green;
-  font-family: 'Bree Serif', serif; 
+  font-family: 'Bree Serif', serif;
 
+}
+
+h2{
+  color:orange;
+  font-family: 'Armata', sans-serif;
 }
 
 
