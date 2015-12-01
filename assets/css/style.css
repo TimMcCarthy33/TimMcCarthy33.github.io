@@ -84,6 +84,9 @@ p{
   color:#FF8C00;
 }
 
+.container-fluid{
+  background-color:#FF8C00; 
+}
 
 .navbar-inverse{
   background-color:green;
