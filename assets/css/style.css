@@ -37,7 +37,7 @@ p{
 #homelink{
   color: #FF8C00;
   margin-left: 360px;
-  
+
 }
 
 
@@ -367,7 +367,9 @@ margin-left: 110px;
 margin-left: 110px;
 }
 
-
+#wingsmenu{
+  width: 50px;
+}
 
 
 
