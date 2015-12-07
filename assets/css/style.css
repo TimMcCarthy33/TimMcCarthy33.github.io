@@ -1,6 +1,7 @@
 @import url(https://fonts.googleapis.com/css?family=Bree+Serif);
 @import url(https://fonts.googleapis.com/css?family=Armata);
 @import url(https://fonts.googleapis.com/css?family=Lora);
+@import url(https://fonts.googleapis.com/css?family=Lobster);
 
 h1{
   color: green;
@@ -29,9 +30,12 @@ p{
 
 
 #Mc{
-  font-size: 90px;
+  font-size: 70px;
 
 
+}
+#tag{
+  font-family: 'Lobster', cursive;
 }
 
 #homelink{
