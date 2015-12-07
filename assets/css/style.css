@@ -6,6 +6,7 @@
 h1{
   color: green;
   font-family: 'Bree Serif', serif;
+  margin-left: 200px;
 
 }
 
@@ -85,6 +86,7 @@ p{
 
 #upcomingeventslink{
   color:#FF8C00;
+  font-size: 20px;
 }
 
 #specialslink{
