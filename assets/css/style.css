@@ -36,10 +36,12 @@ p{
 }
 #tag{
   font-family: 'Lobster', cursive;
+  color: white;
 }
 
 #homelink{
   color: #FF8C00;
+  font-size: 20px;
 
 
 }
@@ -68,6 +70,7 @@ p{
 
 #historylink{
   color:#FF8C00;
+  font-size: 20px;
 }
 
 #map1{
@@ -77,6 +80,7 @@ p{
 
 #menulink{
   color:#FF8C00;
+  font-size: 20px;
 }
 
 #upcomingeventslink{
@@ -85,7 +89,7 @@ p{
 
 #specialslink{
   color:#FF8C00;
-  font-size: 30px;
+  font-size: 20px;
 }
 
 
